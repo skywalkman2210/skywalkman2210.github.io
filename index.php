@@ -5,6 +5,6 @@
   </head>
   
   <body>
-  
+    <?= "moo" ?>
   </body>
 </html>
